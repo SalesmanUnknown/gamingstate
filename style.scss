@@ -155,7 +155,7 @@ main .c2 {
 .p4 {
   min-height: 90vh;
   background-color: #3b4a6b;
-  color: white;
+  color: #3b4a6b;
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -165,7 +165,7 @@ main .c2 {
 .hero {
   height: 60vh;
   width: 100%;
-  background-image: linear-gradient(to right, #e1d24f 0%, #10a9ff 100%);
+  background-color: #f0d43a;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -176,7 +176,7 @@ main .c2 {
 
 .hero a {
   opacity: 0.5;
-  color: white;
+  color: #3b4a6b;
   transition: all 0.4s ease;
 }
 .hero a:hover {
